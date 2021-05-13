@@ -1,1 +1,34 @@
-
+<!HOMEhtml>
+<html>
+<title>Home</title>
+<head>
+<h1><marquee behavior="scroll" direction="down" scrollamount="1">Welcome to my page</marquee></h1>
+<style>
+a:link {
+  color: green;
+}
+a:visited {
+  color: #bd00ff;
+}
+a:hover {
+  color: #ff0074;
+}
+a:active {
+  color: blue;
+}
+</style>
+</head>
+<body>
+<font size="5">Thank you for visiting my page. To learn more about me, please check the links below:</font>
+<body bgcolor="khaki">
+<p>
+	If you want to be my friend, add me on <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/1200px-Facebook_icon.svg.png" alt="fb" width="15" height="15"><a href= "https://www.facebook.com/kulet.daw/">Facebook</a>
+	<br>
+	<hr>
+	<br>
+	I learned how to play around with HTML codes with the help of our handsome instructor. We have our own group page on Facebook.
+	If you want to learn as well, you can <a href="https://www.facebook.com/groups/182949773219308">JOIN</a> us.
+	You can also watch our educational video by visiting his <img src="https://www.theouterhaven.net/wp-content/uploads/2017/12/youtube-logo-750x422.jpg" alt="Youtube" width="75" height="25"> channel by clicking <a href="https://www.youtube.com/channel/UChJBXvvK7exgTslPzAEjAfQ"> HERE</a>.
+</p>
+</body>
+</html>	
