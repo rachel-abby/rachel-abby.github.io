@@ -1,0 +1,26 @@
+table {
+	border:0px blue;
+	width:100%;
+	border-collapse:collapse;
+	background-color:#EEE8AA;
+	cellspacing: 10;
+	padding: 6;
+	text-align: center;
+	font-weight: bold;
+}
+th {
+	text-align: center;
+	padding:0;
+	width: 15%;
+	font-weight: bold;
+	}
+thead {
+	font-size:40px;
+	color:red;
+	font-weight: bold;
+}
+td {
+	width: 15%;
+	text-align: center;
+	font-weight: bold;
+}
